@@ -1,0 +1,27 @@
+<?php
+
+/**
+ * @file
+ * Functions to support theming in the utccloud theme.
+ */
+
+/**
+ * Implements hook_preprocess_HOOK() for html.html.twig.
+ */
+function utccloud_preprocess_html(array &$variables) {
+
+}
+
+/**
+ * Implements hook_preprocess_page() for page.html.twig.
+ */
+function utccloud_preprocess_page(array &$variables) {
+
+}
+
+/**
+ * Implements hook_preprocess_form().
+ */
+function utccloud_preprocess_form(array &$variables) {
+
+}
